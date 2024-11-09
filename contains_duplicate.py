@@ -13,5 +13,5 @@ class Solution:
                 mp[i] = 1
             else:
                 return True
-        
+
         return False
